@@ -71,7 +71,7 @@ demo = gr.Interface(
         "mood scores) and infer the emotion label. Used internally by the Timbre brief engine."
     ),
     api_name="analyze_audio",
-    allow_flagging="never",
+    flagging_mode="never",
 )
 
 if __name__ == "__main__":

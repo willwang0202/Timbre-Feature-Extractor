@@ -1,4 +1,4 @@
-gradio==4.44.0
-huggingface_hub==0.24.7
+gradio==5.25.0
+huggingface_hub>=0.23.0
 essentia-tensorflow
 numpy
